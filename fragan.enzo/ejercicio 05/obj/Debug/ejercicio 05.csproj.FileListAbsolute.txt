@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\laboratorio2_segundo\fragan.enzo\ejercicio 05\bin\Debug\ejercicio 05.exe.config
+C:\Users\Administrador\Desktop\laboratorio2_segundo\fragan.enzo\ejercicio 05\bin\Debug\ejercicio 05.exe
+C:\Users\Administrador\Desktop\laboratorio2_segundo\fragan.enzo\ejercicio 05\bin\Debug\ejercicio 05.pdb
+C:\Users\Administrador\Desktop\laboratorio2_segundo\fragan.enzo\ejercicio 05\obj\Debug\ejercicio 05.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\laboratorio2_segundo\fragan.enzo\ejercicio 05\obj\Debug\ejercicio 05.exe
+C:\Users\Administrador\Desktop\laboratorio2_segundo\fragan.enzo\ejercicio 05\obj\Debug\ejercicio 05.pdb
