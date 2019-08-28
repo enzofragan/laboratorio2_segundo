@@ -34,5 +34,20 @@ namespace clase_04.WindowsForm
             MessageBox.Show(elemento.mostrar());
             this.txtAgregar.Items.Add(elemento.mostrar());
         }
+
+        private void btnRojo_Click(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Red;
+        }
+
+        private void btnAzul_Click(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Blue;
+        }
+
+        private void btnVerde_Click(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Green;
+        }
     }
 }

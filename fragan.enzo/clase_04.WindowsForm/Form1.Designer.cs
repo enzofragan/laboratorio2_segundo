@@ -36,6 +36,9 @@
             this.txtFecha = new System.Windows.Forms.TextBox();
             this.btnCrear = new System.Windows.Forms.Button();
             this.txtAgregar = new System.Windows.Forms.ListBox();
+            this.btnRojo = new System.Windows.Forms.Button();
+            this.btnVerde = new System.Windows.Forms.Button();
+            this.btnAzul = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -88,7 +91,7 @@
             // 
             // btnCrear
             // 
-            this.btnCrear.Location = new System.Drawing.Point(97, 239);
+            this.btnCrear.Location = new System.Drawing.Point(25, 239);
             this.btnCrear.Name = "btnCrear";
             this.btnCrear.Size = new System.Drawing.Size(75, 23);
             this.btnCrear.TabIndex = 6;
@@ -104,11 +107,44 @@
             this.txtAgregar.Size = new System.Drawing.Size(206, 95);
             this.txtAgregar.TabIndex = 7;
             // 
+            // btnRojo
+            // 
+            this.btnRojo.Location = new System.Drawing.Point(25, 268);
+            this.btnRojo.Name = "btnRojo";
+            this.btnRojo.Size = new System.Drawing.Size(75, 23);
+            this.btnRojo.TabIndex = 8;
+            this.btnRojo.Text = "Rojo";
+            this.btnRojo.UseVisualStyleBackColor = true;
+            this.btnRojo.Click += new System.EventHandler(this.btnRojo_Click);
+            // 
+            // btnVerde
+            // 
+            this.btnVerde.Location = new System.Drawing.Point(165, 268);
+            this.btnVerde.Name = "btnVerde";
+            this.btnVerde.Size = new System.Drawing.Size(75, 23);
+            this.btnVerde.TabIndex = 9;
+            this.btnVerde.Text = "Verde";
+            this.btnVerde.UseVisualStyleBackColor = true;
+            this.btnVerde.Click += new System.EventHandler(this.btnVerde_Click);
+            // 
+            // btnAzul
+            // 
+            this.btnAzul.Location = new System.Drawing.Point(165, 239);
+            this.btnAzul.Name = "btnAzul";
+            this.btnAzul.Size = new System.Drawing.Size(75, 23);
+            this.btnAzul.TabIndex = 10;
+            this.btnAzul.Text = "Azul";
+            this.btnAzul.UseVisualStyleBackColor = true;
+            this.btnAzul.Click += new System.EventHandler(this.btnAzul_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(252, 274);
+            this.ClientSize = new System.Drawing.Size(252, 313);
+            this.Controls.Add(this.btnAzul);
+            this.Controls.Add(this.btnVerde);
+            this.Controls.Add(this.btnRojo);
             this.Controls.Add(this.txtAgregar);
             this.Controls.Add(this.btnCrear);
             this.Controls.Add(this.txtFecha);
@@ -134,6 +170,9 @@
         private System.Windows.Forms.TextBox txtFecha;
         private System.Windows.Forms.Button btnCrear;
         private System.Windows.Forms.ListBox txtAgregar;
+        private System.Windows.Forms.Button btnRojo;
+        private System.Windows.Forms.Button btnVerde;
+        private System.Windows.Forms.Button btnAzul;
     }
 }
 
