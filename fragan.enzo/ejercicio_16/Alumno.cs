@@ -21,7 +21,7 @@ namespace ejercicio_16
 
             if(this.nota1>=4 && this.nota2>=4)
             {
-                this.notaFinal = final.Next(1,10);
+                this.notaFinal = (float) final.Next(4, 10);
             }
             else
             {
