@@ -74,6 +74,7 @@
             this.txtEntero.Name = "txtEntero";
             this.txtEntero.Size = new System.Drawing.Size(134, 20);
             this.txtEntero.TabIndex = 3;
+            this.txtEntero.TextChanged += new System.EventHandler(this.txtEntero_TextChanged);
             // 
             // txtCadena
             // 

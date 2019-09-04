@@ -49,5 +49,10 @@ namespace clase_04.WindowsForm
         {
             this.BackColor = Color.Green;
         }
+
+        private void txtEntero_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
