@@ -109,5 +109,21 @@ namespace clase_06.entidades
 
             return indice;
         }
+
+        public static int operator |(Paleta paleta01,Tempera tempera02)
+        {
+            int respuesta = -1;
+
+            for(int i=0;i<=paleta01.colores.Length;i++)
+            {
+                if(paleta01==tempera02)
+                {
+                    respuesta = i;
+                }
+            }
+
+            return respuesta;
+        }
+
     }
 }
