@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -82,7 +82,7 @@ namespace clase_06.entidades
 
                     if (paleta01 == tempera01)
                     {
-                        paleta01.colores += tempera01;
+                        paleta01.colores[paleta01.buscarLugarLibre()] += tempera01;
                     }
                     else
                     {
