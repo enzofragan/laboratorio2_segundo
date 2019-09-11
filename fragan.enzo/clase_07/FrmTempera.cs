@@ -15,9 +15,9 @@ namespace clase_07
   {
     clase_06.entidades.Tempera t;
 
-    public string MiTempera
+    public Tempera laTempera
     {
-      get { return t; }
+            get { return t; }
     }
 
     public FrmTempera()
@@ -32,6 +32,20 @@ namespace clase_07
       this.cmbColores.DropDownStyle = ComboBoxStyle.DropDownList;
     }
 
+    public FrmTempera(Tempera t)
+    {
+        InitializeComponent();
+        this.StartPosition = FormStartPosition.CenterScreen;
+        foreach (ConsoleColor c in Enum.GetValues(typeof(ConsoleColor)))
+        {
+            this.cmbColores.Items.Add(c);
+        }
+        this.txtMarca.Text = t.MiMarca;
+        this.txtCantidad.Text = t.MiCantidad;
+        this.cmbColores.SelectedItem = t.MiColor;
+        this.cmbColores.DropDownStyle = ComboBoxStyle.DropDownList;
+    }
+
     private void button1_Click(object sender, EventArgs e)
     {
       string marca;
@@ -42,6 +56,7 @@ namespace clase_07
       cantidad = this.txtCantidad.Text;
       color = (ConsoleColor)this.cmbColores.SelectedItem;
       this.t = new Tempera(color, marca, int.Parse(cantidad));
+      
       MessageBox.Show(this.t);
       
       this.Close();

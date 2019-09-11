@@ -32,11 +32,11 @@ namespace clase_06.entidades
             string resultado = "";
             resultado = "cantidad maxima de colores: " + this.cantidadMaximaColores.ToString();
 
-            for(int i=0;i<=this.colores.Length;i++)
+            for(int i=0;i<this.colores.Length;i++)
             {
                 resultado += "\n";
 
-                if(!this.colores[i].Equals(null))
+                if(!Object.Equals(this.colores[i], null))
                 {
                     resultado += this.colores[i];
                 }
@@ -56,7 +56,7 @@ namespace clase_06.entidades
 
             if(!paleta01.Equals(null))
             {
-                for (int i = 0; i <= paleta01.colores.Length; i++)
+                for (int i = 0; i < paleta01.colores.Length; i++)
                 {
                     if(paleta01.colores[i] == tempera01)
                     {
@@ -77,7 +77,7 @@ namespace clase_06.entidades
         public static Paleta operator +(Paleta paleta01, Tempera tempera01)
         {
             int indice;
-            if(!paleta01.Equals(null) && !tempera01.Equals(null))
+            if(!Object.Equals(paleta01, null) && !Object.Equals(tempera01, null))
             {
 
                     if (paleta01 == tempera01)
@@ -98,9 +98,9 @@ namespace clase_06.entidades
         private int buscarLugarLibre()
         {
             int indice = -1;
-            for(int i=0;i<=this.colores.Length;i++)
+            for(int i=0;i<this.colores.Length;i++)
             {
-                if(this.colores[i].Equals(null))
+                if(Object.Equals(this.colores[i], null))
                 {
                     indice = i;
                     break;
@@ -114,9 +114,9 @@ namespace clase_06.entidades
         {
             int respuesta = -1;
 
-            for(int i=0;i<=paleta01.colores.Length;i++)
+            for(int i=0;i<paleta01.colores.Length;i++)
             {
-                if(paleta01==tempera02)
+                if(paleta01.colores[i]==tempera02)
                 {
                     respuesta = i;
                 }
@@ -125,5 +125,29 @@ namespace clase_06.entidades
             return respuesta;
         }
 
+        public static Paleta operator -(Paleta paleta01, Tempera tempera01)
+        {
+            int indice = paleta01 | tempera01;
+            if (!Object.Equals(paleta01, null) && !Object.Equals(tempera01, null))
+            {
+                if(indice>=0)
+                {
+                    paleta01.colores[indice] = null;
+                }
+            }
+
+            return paleta01;
+        }
+
+        public Tempera this[int index]
+        {
+            get { return this.colores[index]; }
+            set { this.colores[index] = value; }
+        }
+
+        public int maxima
+        {
+            get { return this.colores.Length; }
+        }
     }
 }

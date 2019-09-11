@@ -12,6 +12,10 @@ namespace clase_06.entidades
         private string marca;
         private int cantidad;
 
+        public string MiCantidad { get { return this.cantidad.ToString(); } }
+        public string MiMarca { get { return this.marca; } }
+        public ConsoleColor MiColor { get { return this.color; } }
+
         public Tempera(ConsoleColor color01,string marca01, int cantidad01)
         {
             this.color = color01;
@@ -34,10 +38,12 @@ namespace clase_06.entidades
         public static bool operator ==(Tempera tempera01,Tempera tempera02)
         {
             bool respuesta=false;
-            if(!tempera01.Equals(null) && !tempera02.Equals(null))
-            if(tempera01.marca==tempera02.marca && tempera01.color==tempera02.color)
+            if(!Object.Equals(tempera01,null) && !Object.Equals(tempera02, null))
             {
-                respuesta = true;
+                if (tempera01.marca == tempera02.marca && tempera01.color == tempera02.color)
+                {
+                    respuesta = true;
+                }
             }
             return respuesta;
         }
@@ -49,7 +55,7 @@ namespace clase_06.entidades
 
         public static Tempera operator +(Tempera tempera01, int cantida01)
         {
-            if(!tempera01.Equals(null))
+            if(!Object.Equals(tempera01, null))
             {
                 if (cantida01 > 0)
                 {
@@ -61,7 +67,7 @@ namespace clase_06.entidades
 
         public static Tempera operator +(Tempera tempera01,Tempera tempera02)
         {
-            if(!tempera01.Equals(null) && !tempera02.Equals(null))
+            if(!Object.Equals(tempera01, null) && !Object.Equals(tempera02, null))
             {
                 if (tempera01 == tempera02)
                 {
