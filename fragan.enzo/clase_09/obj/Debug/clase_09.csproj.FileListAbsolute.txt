@@ -1,0 +1,10 @@
+D:\laboratorio2_segundo\fragan.enzo\clase_09\bin\Debug\clase_09.exe.config
+D:\laboratorio2_segundo\fragan.enzo\clase_09\bin\Debug\clase_09.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_09\bin\Debug\clase_09.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_09\bin\Debug\clase_09.entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\clase_09\bin\Debug\clase_09.entidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_09\obj\Debug\clase_09.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_09\obj\Debug\clase_09.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_09\obj\Debug\clase_09.csproj.CopyComplete
+D:\laboratorio2_segundo\fragan.enzo\clase_09\obj\Debug\clase_09.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_09\obj\Debug\clase_09.pdb
