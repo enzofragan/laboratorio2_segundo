@@ -1,0 +1,25 @@
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\bin\Debug\Clase_09.Entidades.dll
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\bin\Debug\Clase_09.Entidades.pdb
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\obj\Debug\FrmPrincipal.csprojResolveAssemblyReference.cache
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\obj\Debug\FrmPrincipal.FrmAlumno.resources
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\obj\Debug\FrmPrincipal.FrmCatedra.resources
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.Cache
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+D:\Documents\Programacion\Laboratorio 2\Michell Quintero Hernandez\Michell Quintero\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\bin\Debug\FrmPrincipal.exe.config
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\bin\Debug\FrmPrincipal.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\bin\Debug\FrmPrincipal.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.FrmAlumno.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.FrmCatedra.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.Properties.Resources.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_10.frm\obj\Debug\FrmPrincipal.pdb

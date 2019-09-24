@@ -1,0 +1,6 @@
+D:\laboratorio2_segundo\fragan.enzo\Clase_10.Entidades\bin\Debug\Clase_09.Entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\Clase_10.Entidades\bin\Debug\Clase_09.Entidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\Clase_10.Entidades\obj\Debug\Clase_10.Entidades.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\Clase_10.Entidades\obj\Debug\Clase_10.Entidades.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\Clase_10.Entidades\obj\Debug\Clase_09.Entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\Clase_10.Entidades\obj\Debug\Clase_09.Entidades.pdb
