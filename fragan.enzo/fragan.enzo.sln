@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaPolimorfismo", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_11.entidades", "Clase_11.entidades\Clase_11.entidades.csproj", "{CF6D2AF0-0F85-479B-AE0F-AD63BF0123F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaWindowsForms", "CentralitaWindowsForms_starter\CentralitaWindowsForms_starter\CentralitaWindowsForms\CentralitaWindowsForms.csproj", "{9C127181-9D8C-4D0A-8A53-C66D8C0F8480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{CF6D2AF0-0F85-479B-AE0F-AD63BF0123F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF6D2AF0-0F85-479B-AE0F-AD63BF0123F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF6D2AF0-0F85-479B-AE0F-AD63BF0123F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C127181-9D8C-4D0A-8A53-C66D8C0F8480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C127181-9D8C-4D0A-8A53-C66D8C0F8480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C127181-9D8C-4D0A-8A53-C66D8C0F8480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C127181-9D8C-4D0A-8A53-C66D8C0F8480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
