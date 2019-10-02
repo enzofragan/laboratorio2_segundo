@@ -10,11 +10,29 @@ namespace Clase_11.entidades
     {
         protected Franja _franjaHoraria;
 
-        public override float CostoLlamada { get; }
+        public override float CostoLlamada {
+            get
+            {
+                return this.CalcularCosto();
+            }
+        }
 
         private float CalcularCosto()
         {
-
+            float costo = 0;
+            if(this._franjaHoraria==Franja.Franja_1)
+            {
+                costo = base.Duracion * (float)0.99;
+            }
+            else if(this._franjaHoraria==Franja.Franja_2)
+            {
+                costo = base.Duracion * (float)1.25;
+            }
+            else
+            {
+                costo = base.Duracion * (float)0.66;
+            }
+            return costo;
         }
 
         public override bool Equals(object obj)

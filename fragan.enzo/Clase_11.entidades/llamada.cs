@@ -14,11 +14,26 @@ namespace Clase_11.entidades
 
         public abstract float CostoLlamada { get; }
 
-        public float Duracion { get; }
+        public float Duracion {
+            get
+            {
+                return this._duracion;
+            }
+        }
 
-        public string NroDestino { get; }
+        public string NroDestino {
+            get
+            {
+                return this._nroDestino;
+            }
+        }
 
-        public string NroOrigen { get; }
+        public string NroOrigen {
+            get
+            {
+                return this._nroOrigen;
+            }
+        }
 
         public llamada(string origen,string destino,float duracion)
         {
@@ -56,9 +71,26 @@ namespace Clase_11.entidades
             return !(uno == dos);
         }
 
-        public int OrderPorDuracion(llamada uno,llamada dos)
+        public static int OrderPorDuracion(llamada uno,llamada dos)
         {
+            int ret = 0;
 
+            if(uno.Duracion==dos.Duracion)
+            {
+                ret = 0;
+            }
+            else
+            {
+                if(uno.Duracion<dos.Duracion)
+                {
+                    ret = -1;
+                }
+                else
+                {
+                    ret = 1;
+                }
+            }
+            return ret;
         }
     }
 }

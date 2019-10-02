@@ -10,11 +10,16 @@ namespace Clase_11.entidades
     {
         protected float costo;
 
-        public override float CostoLlamada { get; }
+        public override float CostoLlamada {
+            get
+            {
+                return this.CalcularCosto();
+            }
+        }
 
-        public float CalcularCosto()
+        private float CalcularCosto()
         {
-
+            return this.costo * base.Duracion;
         }
 
         public override bool Equals(object obj)
