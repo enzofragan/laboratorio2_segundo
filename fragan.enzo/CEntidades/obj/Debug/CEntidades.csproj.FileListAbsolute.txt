@@ -1,0 +1,5 @@
+D:\laboratorio2_segundo\fragan.enzo\CEntidades\bin\Debug\CEntidades.dll
+D:\laboratorio2_segundo\fragan.enzo\CEntidades\bin\Debug\CEntidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\CEntidades\obj\Debug\CEntidades.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\CEntidades\obj\Debug\CEntidades.dll
+D:\laboratorio2_segundo\fragan.enzo\CEntidades\obj\Debug\CEntidades.pdb

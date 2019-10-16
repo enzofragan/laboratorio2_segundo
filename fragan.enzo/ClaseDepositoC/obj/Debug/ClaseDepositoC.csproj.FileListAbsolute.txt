@@ -1,0 +1,10 @@
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\obj\Debug\ClaseDepositoC.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\obj\Debug\ClaseDepositoC.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\bin\Debug\ClaseDepositoC.exe.config
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\bin\Debug\ClaseDepositoC.exe
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\bin\Debug\ClaseDepositoC.pdb
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\bin\Debug\CEntidades.dll
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\bin\Debug\CEntidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\obj\Debug\ClaseDepositoC.csproj.CopyComplete
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\obj\Debug\ClaseDepositoC.exe
+D:\laboratorio2_segundo\fragan.enzo\ClaseDepositoC\obj\Debug\ClaseDepositoC.pdb

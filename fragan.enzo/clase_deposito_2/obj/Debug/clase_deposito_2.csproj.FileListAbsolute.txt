@@ -1,0 +1,6 @@
+D:\laboratorio2_segundo\fragan.enzo\clase_deposito_2\bin\Debug\clase_deposito_2.exe.config
+D:\laboratorio2_segundo\fragan.enzo\clase_deposito_2\bin\Debug\clase_deposito_2.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_deposito_2\bin\Debug\clase_deposito_2.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_deposito_2\obj\Debug\clase_deposito_2.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_deposito_2\obj\Debug\clase_deposito_2.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_deposito_2\obj\Debug\clase_deposito_2.pdb

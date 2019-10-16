@@ -3,3 +3,4 @@ D:\laboratorio2_segundo\fragan.enzo\Clase_Deposito.Entidades\bin\Debug\Clase_Dep
 D:\laboratorio2_segundo\fragan.enzo\Clase_Deposito.Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\laboratorio2_segundo\fragan.enzo\Clase_Deposito.Entidades\obj\Debug\Clase_Deposito.Entidades.dll
 D:\laboratorio2_segundo\fragan.enzo\Clase_Deposito.Entidades\obj\Debug\Clase_Deposito.Entidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\Clase_Deposito.Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
