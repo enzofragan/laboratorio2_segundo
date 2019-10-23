@@ -5,3 +5,10 @@ D:\VisualStudio\fragan.enzo\ejercicio 01,01\obj\Debug\ejercicio 01,01.csprojAsse
 D:\VisualStudio\fragan.enzo\ejercicio 01,01\obj\Debug\ejercicio 01,01.csproj.CoreCompileInputs.cache
 D:\VisualStudio\fragan.enzo\ejercicio 01,01\obj\Debug\ejercicio 01,01.exe
 D:\VisualStudio\fragan.enzo\ejercicio 01,01\obj\Debug\ejercicio 01,01.pdb
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01,01\bin\Debug\ejercicio 01,01.exe.config
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01,01\bin\Debug\ejercicio 01,01.exe
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01,01\bin\Debug\ejercicio 01,01.pdb
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01,01\obj\Debug\ejercicio 01,01.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01,01\obj\Debug\ejercicio 01,01.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01,01\obj\Debug\ejercicio 01,01.exe
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01,01\obj\Debug\ejercicio 01,01.pdb

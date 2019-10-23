@@ -13,3 +13,4 @@ D:\laboratorio2_segundo\fragan.enzo\FormPrincipal\obj\Debug\FormPrincipal.csproj
 D:\laboratorio2_segundo\fragan.enzo\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
 D:\laboratorio2_segundo\fragan.enzo\FormPrincipal\obj\Debug\FormPrincipal.exe
 D:\laboratorio2_segundo\fragan.enzo\FormPrincipal\obj\Debug\FormPrincipal.pdb
+D:\laboratorio2_segundo\fragan.enzo\FormPrincipal\obj\Debug\FormPrincipal.frmAlumnosCalificados.resources

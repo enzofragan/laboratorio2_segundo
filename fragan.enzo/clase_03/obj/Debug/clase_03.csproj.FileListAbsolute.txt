@@ -5,3 +5,10 @@ C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_03\obj\Debug\clas
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_03\obj\Debug\clase_03.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_03\obj\Debug\clase_03.exe
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_03\obj\Debug\clase_03.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_03\bin\Debug\clase_03.exe.config
+D:\laboratorio2_segundo\fragan.enzo\clase_03\bin\Debug\clase_03.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_03\bin\Debug\clase_03.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_03\obj\Debug\clase_03.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_03\obj\Debug\clase_03.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_03\obj\Debug\clase_03.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_03\obj\Debug\clase_03.pdb

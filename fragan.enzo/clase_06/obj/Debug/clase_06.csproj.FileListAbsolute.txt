@@ -1,0 +1,7 @@
+D:\laboratorio2_segundo\fragan.enzo\clase_06\bin\Debug\clase_06.exe.config
+D:\laboratorio2_segundo\fragan.enzo\clase_06\bin\Debug\clase_06.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_06\bin\Debug\clase_06.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_06\obj\Debug\clase_06.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_06\obj\Debug\clase_06.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_06\obj\Debug\clase_06.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_06\obj\Debug\clase_06.pdb

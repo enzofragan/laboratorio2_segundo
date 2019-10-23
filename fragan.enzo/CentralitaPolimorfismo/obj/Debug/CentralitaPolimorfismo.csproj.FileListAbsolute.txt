@@ -1,0 +1,7 @@
+D:\laboratorio2_segundo\fragan.enzo\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe.config
+D:\laboratorio2_segundo\fragan.enzo\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe
+D:\laboratorio2_segundo\fragan.enzo\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+D:\laboratorio2_segundo\fragan.enzo\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
+D:\laboratorio2_segundo\fragan.enzo\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb

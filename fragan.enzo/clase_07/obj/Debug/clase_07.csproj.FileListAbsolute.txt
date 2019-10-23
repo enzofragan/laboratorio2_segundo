@@ -12,3 +12,17 @@ C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clas
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.exe
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.pdb
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.FrmTempera.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_07\bin\Debug\clase_07.exe.config
+D:\laboratorio2_segundo\fragan.enzo\clase_07\bin\Debug\clase_07.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_07\bin\Debug\clase_07.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_07\bin\Debug\clase_06.entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\clase_07\bin\Debug\clase_06.entidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.Form1.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.FrmTempera.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.Properties.Resources.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.csproj.GenerateResource.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.csproj.CopyComplete
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_07\obj\Debug\clase_07.pdb

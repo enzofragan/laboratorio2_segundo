@@ -11,3 +11,16 @@ C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\ob
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.csproj.CopyComplete
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.exe
 C:\Users\alumno\Desktop\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\bin\Debug\clase_04.WindowsForm.exe.config
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\bin\Debug\clase_04.WindowsForm.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\bin\Debug\clase_04.WindowsForm.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\bin\Debug\clase_04.entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\bin\Debug\clase_04.entidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.Form1.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.Properties.Resources.resources
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.csproj.GenerateResource.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.csproj.CopyComplete
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.exe
+D:\laboratorio2_segundo\fragan.enzo\clase_04.WindowsForm\obj\Debug\clase_04.WindowsForm.pdb

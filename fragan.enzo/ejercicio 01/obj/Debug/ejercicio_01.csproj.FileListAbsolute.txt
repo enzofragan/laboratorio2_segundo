@@ -1,0 +1,7 @@
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01\bin\Debug\ejercicio 01.exe.config
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01\bin\Debug\ejercicio 01.exe
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01\bin\Debug\ejercicio 01.pdb
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01\obj\Debug\ejercicio_01.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01\obj\Debug\ejercicio_01.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01\obj\Debug\ejercicio 01.exe
+D:\laboratorio2_segundo\fragan.enzo\ejercicio 01\obj\Debug\ejercicio 01.pdb
