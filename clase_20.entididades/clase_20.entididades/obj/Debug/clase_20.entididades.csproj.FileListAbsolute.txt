@@ -1,0 +1,6 @@
+D:\VisualStudio\clase_20.entididades\clase_20.entididades\bin\Debug\clase_20.entididades.dll
+D:\VisualStudio\clase_20.entididades\clase_20.entididades\bin\Debug\clase_20.entididades.pdb
+D:\VisualStudio\clase_20.entididades\clase_20.entididades\obj\Debug\clase_20.entididades.csprojAssemblyReference.cache
+D:\VisualStudio\clase_20.entididades\clase_20.entididades\obj\Debug\clase_20.entididades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\clase_20.entididades\clase_20.entididades\obj\Debug\clase_20.entididades.dll
+D:\VisualStudio\clase_20.entididades\clase_20.entididades\obj\Debug\clase_20.entididades.pdb
