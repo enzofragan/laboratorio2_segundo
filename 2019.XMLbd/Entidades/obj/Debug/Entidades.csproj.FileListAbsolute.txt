@@ -1,0 +1,12 @@
+D:\VisualStudio\2019.BaseDeDatos\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\2019.BaseDeDatos\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\2019.BaseDeDatos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\2019.BaseDeDatos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\2019.BaseDeDatos\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\2019.BaseDeDatos\Entidades\obj\Debug\Entidades.pdb
+D:\laboratorio2_segundo\2019.XMLbd\Entidades\bin\Debug\Entidades.dll
+D:\laboratorio2_segundo\2019.XMLbd\Entidades\bin\Debug\Entidades.pdb
+D:\laboratorio2_segundo\2019.XMLbd\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\2019.XMLbd\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\2019.XMLbd\Entidades\obj\Debug\Entidades.dll
+D:\laboratorio2_segundo\2019.XMLbd\Entidades\obj\Debug\Entidades.pdb
