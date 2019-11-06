@@ -25,7 +25,8 @@ namespace AdminPersonas
             {
                 for(int i=0;i<tabla.Rows.Count;i++)
                 {
-                    base.lstVisor.Items.Add(String.Format("{0} - {1} - {2} - {3}", tabla.Rows[i][datatable.Columns[0]], tabla.Rows[i][datatable.Columns[1]], tabla.Rows[i][datatable.Columns[2]], tabla.Rows[i][datatable.Columns[3]]));
+                    string res = tabla.Rows[i][datatable.Columns[1]].ToString() + " - " + tabla.Rows[i][datatable.Columns[2]].ToString() + " - " + tabla.Rows[i][datatable.Columns[3]].ToString();
+                    base.lstVisor.Items.Add(res);
                 }
             }
             catch (Exception exeption)

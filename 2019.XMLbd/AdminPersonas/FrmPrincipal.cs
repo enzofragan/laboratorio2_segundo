@@ -32,7 +32,7 @@ namespace AdminPersonas
             CargarDataTable();
             SqlConnection conec;
             conec = new SqlConnection(Properties.Settings.Default.conexion);
-            this.data = new SqlDataAdapter("SELECT * FROM Personas", conec);
+            this.data = new SqlDataAdapter("SELECT * FROM [personas_bd].[dbo].[personas]", conec);
             this.data.Fill(this.tabla);
             this.data.InsertCommand = new SqlCommand("INSERT INTO [personas_bd].[dbo].[personas] VALUES(@param1,@param2,@param3",conec);
             this.data.UpdateCommand = new SqlCommand("UPDATE [personas_bd].[dbo].[personas] SET nombre=@param1,apellido=@param2,edad=@param3 WHERE id =@param4",conec);
@@ -198,6 +198,19 @@ namespace AdminPersonas
         private void sincronizarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.data.Update(this.tabla);
+        }
+
+        private void dataTableToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmVisorDataTable frm = new frmVisorDataTable(this.tabla);
+            frm.StartPosition = FormStartPosition.CenterScreen;
+
+            //implementar
+            frm.ShowDialog();
+
+            this.lista = frm.ListaPersonas;
+
+            frm.Show();
         }
     }
 }

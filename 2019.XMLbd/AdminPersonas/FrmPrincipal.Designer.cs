@@ -122,6 +122,7 @@
             this.dataTableToolStripMenuItem.Name = "dataTableToolStripMenuItem";
             this.dataTableToolStripMenuItem.Size = new System.Drawing.Size(75, 20);
             this.dataTableToolStripMenuItem.Text = "Data Table";
+            this.dataTableToolStripMenuItem.Click += new System.EventHandler(this.dataTableToolStripMenuItem_Click);
             // 
             // sincronizarToolStripMenuItem
             // 

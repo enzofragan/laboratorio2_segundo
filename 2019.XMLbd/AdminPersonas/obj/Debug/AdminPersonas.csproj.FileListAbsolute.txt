@@ -73,3 +73,4 @@ D:\laboratorio2_segundo\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.
 D:\laboratorio2_segundo\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.csproj.CopyComplete
 D:\laboratorio2_segundo\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.exe
 D:\laboratorio2_segundo\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.pdb
+D:\laboratorio2_segundo\2019.XMLbd\AdminPersonas\obj\Debug\AdminPersonas.frmVisorDataTable.resources
