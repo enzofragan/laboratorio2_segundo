@@ -37,6 +37,7 @@
             this.conectarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.conectarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.traerTodosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dataTableToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,7 +47,8 @@
             this.xMLToolStripMenuItem,
             this.visualizarToolStripMenuItem,
             this.salirToolStripMenuItem,
-            this.conectarToolStripMenuItem});
+            this.conectarToolStripMenuItem,
+            this.dataTableToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
@@ -113,6 +115,12 @@
             this.traerTodosToolStripMenuItem.Text = "Traer todos";
             this.traerTodosToolStripMenuItem.Click += new System.EventHandler(this.traerTodosToolStripMenuItem_Click);
             // 
+            // dataTableToolStripMenuItem
+            // 
+            this.dataTableToolStripMenuItem.Name = "dataTableToolStripMenuItem";
+            this.dataTableToolStripMenuItem.Size = new System.Drawing.Size(75, 20);
+            this.dataTableToolStripMenuItem.Text = "Data Table";
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -140,6 +148,7 @@
         private System.Windows.Forms.ToolStripMenuItem conectarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem conectarToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem traerTodosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem dataTableToolStripMenuItem;
     }
 }
 

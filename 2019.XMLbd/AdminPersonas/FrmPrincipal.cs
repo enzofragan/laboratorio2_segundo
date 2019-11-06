@@ -27,6 +27,8 @@ namespace AdminPersonas
             this.WindowState = FormWindowState.Maximized;
 
             this.lista = new List<Persona>();
+
+      
         }
 
         private void cargarArchivoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -107,7 +109,7 @@ namespace AdminPersonas
 
                 command.Connection = sqlC;
                 command.CommandType = CommandType.Text;
-                command.CommandText = "SELECT TOP 1000 [id], [nombre], [apellido], [edad] FROM [personas_bd].[dbo].[personas]";
+                command.CommandText = "SELECT * FROM [personas_bd].[dbo].[personas]";
                 dataReader = command.ExecuteReader();
 
                 MessageBox.Show("Conexion exitosa");
@@ -134,7 +136,7 @@ namespace AdminPersonas
 
                 command.Connection = sqlC;
                 command.CommandType = CommandType.Text;
-                command.CommandText = "SELECT TOP 1000 [id], [nombre], [apellido], [edad] FROM [personas_bd].[dbo].[personas]";
+                command.CommandText = "SELECT * FROM [personas_bd].[dbo].[personas]";
                 dataReader = command.ExecuteReader();
 
                 while (dataReader.Read() != false)
