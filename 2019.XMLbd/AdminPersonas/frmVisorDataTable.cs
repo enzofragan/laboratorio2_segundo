@@ -53,5 +53,46 @@ namespace AdminPersonas
                 }
             }
         }
+
+        protected override void btnAgregar_Click(object sender, EventArgs e)
+        {
+            frmPersona frm = new frmPersona();
+            frm.ShowDialog();
+            if(frm.DialogResult == DialogResult.OK)
+            {
+                DataColumnCollection columnas = datatable.Columns;
+                DataRow fila = datatable.NewRow();
+                DataRowCollection datrow = datatable.Rows;
+                fila[columnas[1]] = frm.Persona.nombre;
+                fila[columnas[2]] = frm.Persona.apellido;
+                fila[columnas[3]] = frm.Persona.edad;
+                this.ActualizarLista();
+            }
+        }
+
+        protected override void btnModificar_Click(object sender, EventArgs e)
+        {
+            DataRow datafile = this.datatable.Rows[this.lstVisor.SelectedIndex];
+            frmPersona frm = new frmPersona(new Entidades.Persona(datafile["nombre"].ToString(), datafile["apellido"].ToString(), int.Parse(datafile["edad"].ToString())));
+            frm.ShowDialog();
+            if(frm.DialogResult == DialogResult.OK)
+            {
+                datafile["nombre"] = frm.Persona.nombre;
+                datafile["apellido"] = frm.Persona.apellido;
+                datafile["edad"] = frm.Persona.edad;
+            }
+
+            this.ActualizarLista();
+        }
+
+        protected override void btnEliminar_Click(object sender, EventArgs e)
+        {
+           if(lstVisor.SelectedIndex >=0)
+            {
+                DataRow fila = this.Tabla.Rows[this.lstVisor.SelectedIndex];
+                fila.Delete();
+                this.ActualizarLista();
+            }
+        }
     }
 }

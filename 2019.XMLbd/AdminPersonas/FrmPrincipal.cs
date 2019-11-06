@@ -18,6 +18,7 @@ namespace AdminPersonas
     {
         private List<Persona> lista;
         private DataTable tabla;
+        private SqlDataAdapter data;
 
         public FrmPrincipal()
         {
@@ -27,8 +28,46 @@ namespace AdminPersonas
             this.WindowState = FormWindowState.Maximized;
 
             this.lista = new List<Persona>();
+            this.tabla = new DataTable("Personas");
+            CargarDataTable();
+            SqlConnection conec;
+            conec = new SqlConnection(Properties.Settings.Default.conexion);
+            this.data = new SqlDataAdapter("SELECT * FROM Personas", conec);
+            this.data.Fill(this.tabla);
+            this.data.InsertCommand = new SqlCommand("INSERT INTO [personas_bd].[dbo].[personas] VALUES(@param1,@param2,@param3",conec);
+            this.data.UpdateCommand = new SqlCommand("UPDATE [personas_bd].[dbo].[personas] SET nombre=@param1,apellido=@param2,edad=@param3 WHERE id =@param4",conec);
+            this.data.DeleteCommand = new SqlCommand("DELETE FROM [personas_bd].[dbo].[personas] WHERE id =@param4",conec);
 
-      
+            this.data.InsertCommand.Parameters.Add("@param1", SqlDbType.VarChar, 50, "nombre");
+            this.data.InsertCommand.Parameters.Add("@param2", SqlDbType.VarChar, 50, "apellido");
+            this.data.InsertCommand.Parameters.Add("@param3", SqlDbType.Int, 50, "edad");
+        }
+
+        public void CargarDataTable()
+        {
+            try
+            {
+                SqlConnection sqlc = new SqlConnection(Properties.Settings.Default.conexion);
+                sqlc.Open();
+
+                SqlCommand command = new SqlCommand();
+                SqlDataReader reader;
+
+                command.Connection = sqlc;
+                command.CommandType = CommandType.Text;
+                command.CommandText = "SELECT * FROM [personas_bd].[dbo].[personas]";
+                reader = command.ExecuteReader();
+
+                this.tabla.Load(reader);
+
+                reader.Close();
+                sqlc.Close();
+            }
+            catch (Exception exeption)
+            {
+
+                MessageBox.Show(exeption.Message);
+            }
         }
 
         private void cargarArchivoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -154,6 +193,11 @@ namespace AdminPersonas
             {
                 MessageBox.Show(exception.Message);
             }
+        }
+
+        private void sincronizarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.data.Update(this.tabla);
         }
     }
 }

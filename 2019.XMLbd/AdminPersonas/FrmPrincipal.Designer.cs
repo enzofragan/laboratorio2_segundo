@@ -38,6 +38,7 @@
             this.conectarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.traerTodosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dataTableToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sincronizarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -48,7 +49,8 @@
             this.visualizarToolStripMenuItem,
             this.salirToolStripMenuItem,
             this.conectarToolStripMenuItem,
-            this.dataTableToolStripMenuItem});
+            this.dataTableToolStripMenuItem,
+            this.sincronizarToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
@@ -121,6 +123,13 @@
             this.dataTableToolStripMenuItem.Size = new System.Drawing.Size(75, 20);
             this.dataTableToolStripMenuItem.Text = "Data Table";
             // 
+            // sincronizarToolStripMenuItem
+            // 
+            this.sincronizarToolStripMenuItem.Name = "sincronizarToolStripMenuItem";
+            this.sincronizarToolStripMenuItem.Size = new System.Drawing.Size(77, 20);
+            this.sincronizarToolStripMenuItem.Text = "Sincronizar";
+            this.sincronizarToolStripMenuItem.Click += new System.EventHandler(this.sincronizarToolStripMenuItem_Click);
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -149,6 +158,7 @@
         private System.Windows.Forms.ToolStripMenuItem conectarToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem traerTodosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem dataTableToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sincronizarToolStripMenuItem;
     }
 }
 
