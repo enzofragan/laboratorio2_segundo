@@ -1,0 +1,6 @@
+D:\laboratorio2_segundo\fragan.enzo\Clase_23.entidades\bin\Debug\Clase_23.entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\Clase_23.entidades\bin\Debug\Clase_23.entidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\Clase_23.entidades\obj\Debug\Clase_23.entidades.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\Clase_23.entidades\obj\Debug\Clase_23.entidades.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\Clase_23.entidades\obj\Debug\Clase_23.entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\Clase_23.entidades\obj\Debug\Clase_23.entidades.pdb

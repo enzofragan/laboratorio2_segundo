@@ -1,0 +1,13 @@
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\bin\Debug\Clase23.form.exe.config
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\bin\Debug\Clase23.form.exe
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\bin\Debug\Clase23.form.pdb
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\bin\Debug\Clase_23.entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\bin\Debug\Clase_23.entidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\obj\Debug\Clase23.form.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\obj\Debug\Clase23.form.Form1.resources
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\obj\Debug\Clase23.form.Properties.Resources.resources
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\obj\Debug\Clase23.form.csproj.GenerateResource.cache
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\obj\Debug\Clase23.form.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\obj\Debug\Clase23.form.csproj.CopyComplete
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\obj\Debug\Clase23.form.exe
+D:\laboratorio2_segundo\fragan.enzo\Clase23.form\obj\Debug\Clase23.form.pdb
