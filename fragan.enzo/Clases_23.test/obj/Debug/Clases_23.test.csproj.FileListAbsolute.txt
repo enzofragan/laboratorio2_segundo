@@ -1,0 +1,12 @@
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\bin\Debug\Clases_23.test.exe.config
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\bin\Debug\Clases_23.test.exe
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\bin\Debug\Clases_23.test.pdb
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\bin\Debug\clase_23.entidades.dll
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\bin\Debug\Entidades.Externa.dll
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\bin\Debug\Entidades.Externa.Sellada.dll
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\bin\Debug\clase_23.entidades.pdb
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\obj\Debug\Clases_23.test.csprojAssemblyReference.cache
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\obj\Debug\Clases_23.test.csproj.CoreCompileInputs.cache
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\obj\Debug\Clases_23.test.csproj.CopyComplete
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\obj\Debug\Clases_23.test.exe
+D:\laboratorio2_segundo\fragan.enzo\Clases_23.test\obj\Debug\Clases_23.test.pdb
